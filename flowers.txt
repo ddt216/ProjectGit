@@ -3,3 +3,6 @@ Lily
 Jasmine
 Camelia
 Hydrangea
+Geranium
+Calla Lily
+Hyacinth
