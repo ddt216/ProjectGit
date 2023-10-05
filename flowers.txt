@@ -2,7 +2,12 @@ Rose
 Lily
 Jasmine
 Camelia
-Hydrangea
+Petunia
 Geranium
 Calla Lily
 Hyacinth
+Chrysanthamum
+Carnation
+Marigold
+Lavendar
+Clivia
