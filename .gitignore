@@ -1,0 +1,8 @@
+# Ignore ALL runtime .class files
+*.class
+
+# Ignore ALL .log files
+*.log
+
+# Ignore ALL files in ANY directory named temp
+/temp
